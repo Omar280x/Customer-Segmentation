@@ -9,8 +9,7 @@
 
 
 ### Implemented customer segmentation using clustering to define marketing strategy.
-### Used four unsupervised models (Kmeans-Hierarchal Clustering-Dbscan- Gaussian Mixture Model) on a dataset of
-usage behavior of about 9000 active credit card holders.
+### Used four unsupervised models (Kmeans-Hierarchal Clustering-Dbscan- Gaussian Mixture Model) on a dataset of usage behavior of about 9000 active credit card holders.
 
 ## Technologies used in this project:
 * python
